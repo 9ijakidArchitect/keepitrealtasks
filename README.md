@@ -1,4 +1,4 @@
-<img width="200" height="40" src="https://9ijakids.com/wp-content/uploads/2020/06/cropped-9ijakids_logo___160px-2.png">
+<img width="200" height="200" src="https://9ijakids.com/wp-content/uploads/2020/06/cropped-9ijakids_logo___160px-2.png">
 
 # About 9ijakids
 9ijakids is a fun learning leading EdTech company based in Nigeria. We are creative people and proudly so. We deliver learning moments in unforgettable ways, if it is no fun, it ain't us.
