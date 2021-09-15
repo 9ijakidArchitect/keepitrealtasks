@@ -23,16 +23,8 @@ The primary reasons we ask candidates of all levels to complete these exercises 
 
 # General Instructions
 Choose the task repo below that matches the role you applied for: 
-Read the read.md file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@trusoftng.com
+Read the read.md file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via Github issues or by emailing careers@9ijakids.com
     
-
-## 1. UX Designer Intern Task
-### No surprises, the task would be to design something children can relate to in a fun way - https://github.com/trusoft-limited/Trusoft-Intern-Assessment/tree/main/Frontend-Assessment
-
-
-## 2. Backend Task
-### Task is to provision a backend server - https://github.com/trusoft-limited/Trusoft-Intern-Assessment/tree/main/Backendend-Assessment
-
 
 ## HOW TO SUBMIT YOUR TASK
 See task for details
